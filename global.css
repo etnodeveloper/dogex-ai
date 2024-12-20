@@ -8,3 +8,6 @@
   }
 } 
 
+.next-error-h1, .next-error-h1 + div {
+  color: #fff;
+}
