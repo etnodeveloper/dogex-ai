@@ -20,6 +20,9 @@ export const metadata: Metadata = {
       "max-snippet": -1,
     },
   },
+  icons: {
+    shortcut: "/favicon.png",
+  },
 };
 const inter = Inter({
   subsets: ["latin"],
